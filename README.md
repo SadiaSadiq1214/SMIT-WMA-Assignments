@@ -1,2 +1,2 @@
 # SMIT-WMA-Assignments
-Here are the Assignments of WMA.
+Here are the Assignments of WMA.br
